@@ -1,0 +1,153 @@
+.bg-1{
+    /* background: #F7F7F7; */
+    width: 100%;
+    min-height: 900px;
+}
+.Need-For{
+    color: #333;
+    font-family: "Sofia Pro";
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 600;
+    margin-top: 80px;
+}
+.lorem{
+    margin-top: 30px;
+}
+.BUY-NOW{
+    max-width: 130px; 
+    height: 50px;
+    background: #E21A43;
+}
+.SEE-MORE{
+    max-width: 130px;
+    height: 50px;
+    border: 1px solid #E21A43;
+}
+.yetti-img-row{
+    background-color: white;
+    min-height: 970px;
+    min-height: 130px;
+    margin-top: -65px;
+}
+.chiziq{
+    width: 40px;
+    height: 1px;
+    background-color: black;
+}
+.card-col2{
+    background-color: white;
+    border: 10px solid  #F7F7F7;
+
+}
+.card-img1-button{
+    max-width: 130px;
+    height: 50px;
+    background-color: #E21A431A;
+    border: 1px solid white;
+}
+.hover{
+    margin-top: -45px;
+}
+.rotate-col-5{
+    transform: rotate(-45deg);
+}
+.border-radius{
+    border-radius: 20px;
+    max-width: 150px;
+    height: 150px;
+}
+.div-rotate-img2{
+    max-width: 105.359px;
+    height: 105.359px;
+    flex-shrink: 0;
+    background: #E21A4312;
+    margin-top: 45px;
+}
+.rotate-img2{
+    transform: rotate(45deg);
+    
+}
+.Best-Selling-Product{
+    /* background-color: #F7F7F7; */
+    width: 100%;
+    min-height: 770px;
+}
+.Service{
+    color: #666;
+
+    font-family: "Sofia Pro";
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 150%; /* 90px */
+}
+.rotate-p{
+    margin-top: 200px;
+}
+.card2-img{
+    width: 246px;
+    height: 290px;
+}
+.mt-container{
+    margin-top: 80px;
+}   
+.Best-Selling-bg{
+    /* background-color: #F7F7F7; */
+    width: 100%;
+
+
+}
+/* koffe  */
+.koffe-mindiv{
+    max-width: 50px;
+    height: 50px;
+    background-color: #E21A4326;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Add-to-Bag{
+    max-width: 173px;
+    height: 50px;
+    background-color: #E21A43;
+}
+.mini-row-border{
+    border-top: 10px solid #F7F7F7;
+    border-bottom: 20px solid #F7F7F7;
+    padding-bottom: 40px;
+}
+.col-3-border{
+    border: 10px solid #F7F7F7;
+}
+.koffe-col-3{
+    border-right: 10px solid #F7F7F7;
+}
+/* koffe end  */
+/* Make your */
+.Make-your{
+    color: #333;
+    font-family: "Sofia Pro";
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 70px; /* 145.833% */
+}
+/* Make your end */
+
+/* footer  */
+.footer-row{
+    max-width: 1440px;
+    min-height: 402px;
+    flex-shrink: 0;
+    background-color: #F7F7F7;
+}
+/* footer end  */
+.app-scrren{
+    max-width: 632px;
+
+}
+.Fresh{
+    width: 570px;
+    height: 428px;
+}
